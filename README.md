@@ -18,7 +18,11 @@
       font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
     }
 
+<<<<<<< HEAD
      html,body{
+=======
+    html,body{
+>>>>>>> b8a6c49549d3caf00506982c910e94dfd82a8e4c
       height:100%;
       margin:0;
       background: linear-gradient(180deg,#eef6ff 0%, var(--bg) 100%);
@@ -374,4 +378,8 @@
     setMode('login');
   </script>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> b8a6c49549d3caf00506982c910e94dfd82a8e4c
